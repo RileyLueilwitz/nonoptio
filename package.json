@@ -1,0 +1,36 @@
+{
+  "name": "nonoptio",
+  "version": "1.0.0",
+  "description": "Lagash winston logger wrapper.",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "files": [
+    "js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RileyLueilwitz/nonoptio.git"
+  },
+  "keywords": [
+    "sed",
+    "eum",
+    "winston",
+    "logger",
+    "minus",
+    "id"
+  ],
+  "author": "DarianaKunde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RileyLueilwitz/nonoptio.git/issues"
+  },
+  "homepage": "https://github.com/RileyLueilwitz/nonoptio.git",
+  "dependencies": {
+    "@types/winston": "0.0.27",
+    "lagash-config": "^0.1.0",
+    "winston": "^2.2.0"
+  }
+}
